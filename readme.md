@@ -21,7 +21,7 @@ The following Python libraries are required:
 You can install the required libraries using:
 ```bash
 pip install opencv-python numpy face_recognition scikit-learn joblib
-
+```
 ## How It Works
 ### Training:
 - If a pre-trained model exists, you will be prompted to retrain or use the existing model.
